@@ -24,6 +24,8 @@ NPM Packages needed: MySQL, inquirer
 ## Usage 
 
 Run index.js in terminal and follow prompts to manage your employees the way you want.
+
+![app screen shot](https://github.com/hamery93/Eat-Da-Burger-/blob/master/appScreenshot.jpg)
    
 ## License
 
